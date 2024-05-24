@@ -1,6 +1,7 @@
 # Anu Coffee
 
-Mobile Application for Coffee Order
+Mobile Application for Coffee Order.
+
 Final Project for Mobile Programming
 
 ## Getting Started
