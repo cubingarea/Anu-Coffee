@@ -1,6 +1,7 @@
-# restaurant_app
+# Anu Coffee
 
-A new Flutter project.
+Mobile Application for Coffee Order
+Final Project for Mobile Programming
 
 ## Getting Started
 
