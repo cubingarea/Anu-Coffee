@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652907857052",
+    "project_id": "anu-coffee",
+    "storage_bucket": "anu-coffee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652907857052:android:6dd09ba606b95b1ca95959",
+        "android_client_info": {
+          "package_name": "com.example.restaurant_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtPCetRQwH2_as1HnJBiBThOl4uxwPhTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
