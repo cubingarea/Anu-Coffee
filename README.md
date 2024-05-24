@@ -1,6 +1,6 @@
 # Anu Coffee
 
-### Mobile Application for Coffee Order
+Mobile Application for Coffee Order
 Final Project for Mobile Programming
 
 ## Getting Started
@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# Instagram @_cubirth
+Instagram @_cubirth
