@@ -126,6 +126,7 @@ class AuthController extends GetxController {
       preferences.setString('user', userEncode);
 
       Get.offAllNamed(RouteName.mainScreen);
+      Get.snackbar('Login Berhasil', 'Selamat Datang di Anu Coffee');
     } on FirebaseAuthException catch (e) {
       if (e.code == 'user-not-found') {
         Get.showSnackbar(GetSnackBar(

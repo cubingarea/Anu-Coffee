@@ -6,7 +6,7 @@ import 'package:restaurant_app/features/controller/AuthController.dart';
 import 'package:restaurant_app/features/controller/profile_controller.dart';
 import 'package:restaurant_app/features/models/user_model.dart';
 import 'package:restaurant_app/features/route/route_name.dart';
-import 'package:restaurant_app/features/services/notif_service.dart';
+// import 'package:restaurant_app/features/services/notif_service.dart';
 
 class TextProfile extends StatefulWidget {
   final UserModel userModel;
@@ -165,12 +165,12 @@ class _TextProfileState extends State<TextProfile> {
                       email: _emailController.text,
                       password: _passwordController.text,
                     );
-                    NotificationService.showNotif(
-                      'Username/Password berhasil diubah',
-                      'Silahkan Login Kembali',
-                    );
-                    // Get.snackbar('Username/Password berhasil diubah',
-                    //     'Silahkan Login Kembali');
+                    // NotificationService.showNotif(
+                    //   'Username/Password berhasil diubah',
+                    //   'Silahkan Login Kembali',
+                    // );
+                    Get.snackbar('Username/Password berhasil diubah',
+                        'Silahkan Login Kembali');
                     Get.offAllNamed(RouteName.signInScreen);
                   },
                   child: Text(

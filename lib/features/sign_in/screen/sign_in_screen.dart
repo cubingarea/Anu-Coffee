@@ -92,8 +92,6 @@ class SignInScreen extends StatelessWidget {
                           //   'Login Berhasil',
                           //   'Selamat Datang di Anu Coffee',
                           // );
-                          Get.snackbar(
-                              "Login Berhasil", "Selamat Datang di Anu Coffee");
                         },
                         child: Text(
                           "Masuk",
