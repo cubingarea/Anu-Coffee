@@ -2,7 +2,7 @@
 
 Mobile Application for Coffee Order.
 
-Final Project for Mobile Programming
+Final Project for Mobile Programming Courses
 
 ## Getting Started
 
